@@ -67,7 +67,7 @@
   },
   "scripts": {
     "start": "yarn react-scripts start",
-    "build": "yarn react-scripts build output public",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "eslint './src/**/*.{js,jsx}'",
