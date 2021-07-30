@@ -1,4 +1,5 @@
 {
+  "build": "CI= react-scripts build",
   "name": "@pancakeswap/info",
   "private": true,
   "homepage": "https://pancakeswap.info",
