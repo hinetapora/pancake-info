@@ -7,7 +7,7 @@ import { Box, Flex, Text } from 'rebass'
 import styled from 'styled-components'
 
 import { CustomLink } from '../Link'
-import { Divider } from '../../components'
+import { Divider } from '..'
 import { withRouter } from 'react-router-dom'
 import { formattedNum, formattedPercent } from '../../utils'
 import DoubleTokenLogo from '../DoubleLogo'
